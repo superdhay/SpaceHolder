@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 01/29/22 02:03:36
+=======
+﻿Log file open, 01/29/22 02:38:12
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,18 +14,29 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: SpaceHolder
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.187177
+=======
+LogStats: Stats thread started at 0.200664
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
+<<<<<<< HEAD
+=======
+LogPluginManager: Mounting plugin AISupport
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin CameraShakePreviewer
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
@@ -35,10 +50,22 @@ LogPluginManager: Mounting plugin TextureFormatOodle
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
+=======
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin PluginUtils
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin CryptoKeys
@@ -54,14 +81,56 @@ LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+=======
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin Niagara
-LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MagicLeapMedia
+=======
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin SideFX_Labs
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+<<<<<<< HEAD
+LogPluginManager: Mounting plugin SideFX_Labs
+=======
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin AndroidMedia
@@ -69,8 +138,10 @@ LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin BackChannel
@@ -84,10 +155,20 @@ LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
+=======
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin OpenImageDenoise
 LogPluginManager: Mounting plugin MotoSynth
@@ -104,41 +185,64 @@ LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+=======
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
+<<<<<<< HEAD
+=======
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin HoudiniEngine
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin OpenXR
 LogPluginManager: Mounting plugin OpenXREyeTracker
 LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PostSplashScreen
-LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
+=======
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin Takes
-LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
@@ -178,7 +282,11 @@ LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.27
 LogInit: Command Line: 
+<<<<<<< HEAD
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Binaries/Win64/
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 29
@@ -230,6 +338,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2022.01.29-01.03.36:947][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.01.29-01.03.36:947][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.01.29-01.03.36:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Willy/Documents/SpaceHolder/SpaceHolder/Saved/Config/Windows/Engine.ini]
@@ -6346,3 +6455,991 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.01.29-02.28.52:317][519]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Willy/Documents/SpaceHolder'
 [2022.01.29-02.28.52:317][519]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Willy/Documents/SpaceHolder'
 [2022.01.29-02.28.52:410][519]EditorErrors: Warning: No assets to check in!
+=======
+[2022.01.29-01.38.13:630][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.29-01.38.13:630][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.29-01.38.13:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Engine.ini]
+[2022.01.29-01.38.13:630][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Engine.ini]
+[2022.01.29-01.38.13:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Engine.ini]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Engine.ini]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.29-01.38.13:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Engine.ini]
+[2022.01.29-01.38.13:631][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Engine.ini]
+[2022.01.29-01.38.13:640][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.29-01.38.13:640][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.29-01.38.13:641][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.29-01.38.13:641][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.29-01.38.13:641][  0]LogHAL: Display: Platform has ~ 32 GB [34172313600 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.29-01.38.13:641][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.29-01.38.13:641][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.29-01.38.13:641][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.29-01.38.13:642][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Engine.ini]
+[2022.01.29-01.38.13:642][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Config/Windows/Editor.ini]
+[2022.01.29-01.38.13:642][  0]LogInit: Computer: MSI
+[2022.01.29-01.38.13:642][  0]LogInit: User: sasha
+[2022.01.29-01.38.13:642][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.01.29-01.38.13:642][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.29-01.38.13:642][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.01.29-01.38.13:642][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.29-01.38.13:642][  0]LogMemory: Process Physical Memory: 148.53 MB used, 148.54 MB peak
+[2022.01.29-01.38.13:642][  0]LogMemory: Process Virtual Memory: 131.15 MB used, 131.15 MB peak
+[2022.01.29-01.38.13:642][  0]LogMemory: Physical Memory: 9083.02 MB used,  23506.24 MB free, 32589.26 MB total
+[2022.01.29-01.38.13:642][  0]LogMemory: Virtual Memory: 134190880.00 MB used,  26850.18 MB free, 134217728.00 MB total
+[2022.01.29-01.38.13:668][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.29-01.38.13:700][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.29-01.38.13:700][  0]LogInit: Using OS detected language (fr-FR).
+[2022.01.29-01.38.13:700][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.01.29-01.38.13:703][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.01.29-01.38.13:703][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.01.29-01.38.13:703][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.01.29-01.38.13:703][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.01.29-01.38.13:703][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.01.29-01.38.13:703][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.01.29-01.38.13:704][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.01.29-01.38.13:704][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.01.29-01.38.13:704][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.29-01.38.13:716][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.29-01.38.13:736][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.29-01.38.13:736][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.29-01.38.13:849][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.29-01.38.13:861][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.29-01.38.13:861][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.29-01.38.13:861][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.29-01.38.13:861][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.29-01.38.13:954][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080 Laptop GPU' (Feature Level 11_0)
+[2022.01.29-01.38.13:955][  0]LogD3D11RHI:       8041/0/16294 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.01.29-01.38.13:979][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.01.29-01.38.13:979][  0]LogD3D11RHI:       128/0/16294 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:       0/0/16294 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Laptop GPU
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     DeviceId    : 249c
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     SubSysId    : 12ee1462
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     DedicatedVideoMemory : 8431599616 bytes
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     SharedSystemMemory : 17086156800 bytes
+[2022.01.29-01.38.13:981][  0]LogD3D11RHI:     AdapterLuid : 0 78315
+[2022.01.29-01.38.13:986][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.29-01.38.13:986][  0]LogD3D11RHI:     GPU DeviceId: 0x249c (for the marketing name, search the web for "GPU Device Id")
+[2022.01.29-01.38.13:986][  0]LogWindows: EnumDisplayDevices:
+[2022.01.29-01.38.13:986][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.01.29-01.38.13:986][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.01.29-01.38.13:986][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.01.29-01.38.13:986][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:1)
+[2022.01.29-01.38.13:986][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0)
+[2022.01.29-01.38.13:987][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0)
+[2022.01.29-01.38.13:987][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3080 Laptop GPU' (P:0 D:0)
+[2022.01.29-01.38.13:987][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Laptop GPU
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:   Driver Version: 511.09 (internal:30.0.15.1109, unified:511.09)
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:      Driver Date: 12-29-2021
+[2022.01.29-01.38.13:987][  0]LogRHI: Texture pool is 5628 MB (70% of 8041 MB)
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Laptop GPU
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     DeviceId    : 249c
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     SubSysId    : 12ee1462
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     DedicatedVideoMemory : 8431599616 bytes
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     SharedSystemMemory : 17086156800 bytes
+[2022.01.29-01.38.13:987][  0]LogD3D11RHI:     AdapterLuid : 0 78315
+[2022.01.29-01.38.14:037][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.29-01.38.14:037][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.29-01.38.14:037][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.29-01.38.14:039][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061086).
+[2022.01.29-01.38.14:054][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.29-01.38.14:087][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.29-01.38.14:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.29-01.38.14:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.29-01.38.14:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.29-01.38.14:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.29-01.38.14:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.29-01.38.14:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.29-01.38.14:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.29-01.38.14:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.29-01.38.14:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.29-01.38.14:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.29-01.38.14:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.29-01.38.14:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.29-01.38.14:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.29-01.38.14:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.29-01.38.14:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.29-01.38.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.29-01.38.14:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.29-01.38.14:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.29-01.38.14:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.29-01.38.14:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.29-01.38.14:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.29-01.38.14:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.29-01.38.14:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.29-01.38.14:443][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.29-01.38.14:448][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.29-01.38.14:474][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.29-01.38.14:498][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.29-01.38.14:498][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Intermediate/Shaders/WorkingDirectory/18264/).
+[2022.01.29-01.38.14:498][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sasha/AppData/Local/Temp/UnrealShaderWorkingDir/E73885604AE528EFB886EF960C3BCEF0/'.
+[2022.01.29-01.38.14:498][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.29-01.38.14:498][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.29-01.38.14:498][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.29-01.38.15:117][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.29-01.38.15:159][  0]LogDerivedDataCache: Loaded boot cache 0.04s 95MB C:/Users/sasha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.29-01.38.15:159][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sasha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.29-01.38.15:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.29-01.38.15:159][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.29-01.38.15:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.29-01.38.15:159][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.29-01.38.15:172][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.29-01.38.15:172][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.29-01.38.15:172][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.29-01.38.15:180][  0]LogDerivedDataCache: Speed tests for C:/Users/sasha/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.01.29-01.38.15:180][  0]LogDerivedDataCache: Display: Performance to C:/Users/sasha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1408.40MBs, RandomWriteSpeed=133.62MBs. Assigned SpeedClass 'Local'
+[2022.01.29-01.38.15:181][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sasha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.29-01.38.15:181][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.29-01.38.15:181][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.29-01.38.15:221][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.29-01.38.15:222][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.29-01.38.15:243][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2022.01.29-01.38.15:424][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.29-01.38.15:424][  0]LogInit: Active device profile: [0000021768528B00][0000021764D49580 49] Windows
+[2022.01.29-01.38.15:424][  0]LogInit: Profiles: [0000021768528B00][0000021764D49580 49] Windows, [00000217684BDB00][0000021764B99700 49] WindowsNoEditor, [0000021768529900][0000021764BA1880 49] WindowsServer, [00000217684BE800][000002175D81FA00 49] WindowsClient, [000002176852BC00][000002175D823B80 49] IOS, [00000217684BFC00][000002175D826180 49] iPadAir, [000002176852BE00][000002175D82A300 49] iPadAir2, [0000021768210C00][0000021764D4C580 49] IPadPro, [0000021768210D00][000002175D82E5C0 49] iPadAir3, [00000217684BF500][000002175D832700 49] iPadAir4, [0000021768213600][000002175D836840 49] iPadMini2, [00000217684BEC00][000002175D83A980 49] iPadMini3, [0000021768213800][000002175D842B00 49] iPadMini4, [00000217684BF200][000002175D846C80 49] iPadMini5, [0000021768218600][000002175D84EF40 49] iPhone6, [0000021768218700][000002175D84AF80 49] iPodTouch6, [000002176852A900][0000021767667240 49] iPhone7, [000002176852A800][0000021767663280 49] iPodTouch7, [0000021768218100][000002176766B400 49] iPhone5S, [0000021768210700][000002176766F580 49] iPhone6Plus, [000002176821A500][0000021767673700 49] iPhone6S, [0000021768211300][0000021767677880 49] iPhone6SPlus, [000002176821BB00][000002176767BA00 49] iPhone7Plus, [0000021768213500][000002176767FB80 49] iPhoneSE, [000002176852A600][0000021767682180 49] iPhone8, [0000021768210600][0000021767686300 49] iPhone8Plus, [000002176852A200][000002176768A480 49] iPhoneX, [0000021768213300][000002176768E600 49] iPhoneXS, [000002176852B400][000002175D83E740 49] iPhoneXSMax, [0000021768212D00][0000021767692880 49] iPhoneXR, [0000021768528200][00000217676969C0 49] iPhone11, [0000021768211E00][000002176769AB00 49] iPhone11Pro, [000002176852AA00][00000217676A2C80 49] iPhone11ProMax, [0000021768213700][00000217676A6E00 49] iPhoneSE2, [0000021768528D00][00000217676AAF80 49] iPhone12Mini, [0000021768211F00][00000217676AF100 49] iPhone12, [0000021768528700][00000217676B3280 49] iPhone12Pro, [0000021768211400][00000217676B7400 49] iPhone12ProMax, [0000021768528C00][00000217676BB580 49] iPadPro105, [0000021768211700][000002175EC83700 49] iPadPro129, [0000021768528100][000002175EC87880 49] iPadPro97, [0000021768213C00][000002175EC8BA00 49] iPadPro2_129, [0000021768528800][000002175EC8FB80 49] iPad5, [0000021768213100][000002175EC92180 49] iPad6, [0000021768528500][000002175EC96300 49] iPad7, [0000021768212800][000002175EC9A480 49] iPad8, [0000021768529500][000002175EC9E600 49] iPadPro11, [0000021768211500][000002175ECA2780 49] iPadPro2_11, [0000021768528F00][000002175ECA6900 49] iPadPro3_129, [0000021768212C00][000002176769EA40 49] iPadPro4_129, [000002176852A500][000002175ECAAB80 49] AppleTV, [0000021768211100][000002175ECAECC0 49] AppleTV4K, [0000021768528400][000002175ECB6E40 49] TVOS, [0000021768212600][000002175ECBAFC0 49] Mac, [000002176852BD00][000002175ECBF140 49] MacClient, [0000021768211800][000002175ECC32C0 49] MacNoEditor, [000002176852B100][000002175ECC7440 49] MacServer, [0000021768213900][000002175ECCB5C0 49] Linux, [0000021768528900][000002175ECCF740 49] LinuxAArch64, [0000021768213F00][000002175ECD38C0 49] LinuxNoEditor, [0000021768529B00][000002175ECD7A40 49] LinuxAArch64NoEditor, [0000021768213400][000002175ECDBBC0 49] LinuxClient, [0000021768529C00][000002175ECDE1C0 49] LinuxAArch64Client, [0000021768211D00][000002175ECE2340 49] LinuxServer, [000002176852AF00][000002175ECE64C0 49] LinuxAArch64Server, [0000021768210500][000002175ECEA640 49] Android, [0000021768529E00][000002175ECEE7C0 49] Android_Low, [0000021768213000][000002175DC36940 49] Android_Mid, [000002176852A400][000002175DC3AAC0 49] Android_High, [0000021768210800][000002175ECB2C00 49] Android_Default, [000002176852B200][000002175DC3ED40 49] Android_Adreno4xx, [00000217684BDE00][000002175DC42E80 49] Android_Adreno5xx_Low, [0000021768219C00][000002175DC46FC0 49] Android_Adreno5xx, [00000217684BF700][000002175DC4F140 49] Android_Adreno6xx, [000002176821AB00][000002175DC532C0 49] Android_Adreno6xx_Vulkan, [00000217684BF800][000002175DC57440 49] Android_Mali_T6xx, [0000021768218F00][000002175DC5B5C0 49] Android_Mali_T7xx, [00000217684BCD00][000002175DC5F740 49] Android_Mali_T8xx, [0000021768219F00][000002175DC638C0 49] Android_Mali_G71, [00000217684BD600][000002175DC67A40 49] Android_Mali_G72, [000002176821A400][000002175DC6BBC0 49] Android_Mali_G72_Vulkan, [00000217684BF000][000002175DC6E1C0 49] Android_Mali_G76, [000002176821A100][000002175DC72340 49] Android_Mali_G76_Vulkan, [00000217684BD500][000002175DC764C0 49] Android_Mali_G77, [0000021768218A00][000002175DC7A640 49] Android_Mali_G77_Vulkan, [00000217684BEE00][000002175DC7E7C0 49] Android_Mali_G78, [0000021768219300][000002175DC82940 49] Android_Mali_G78_Vulkan, [00000217684BE300][000002175DC86AC0 49] Android_Mali_G710, [000002176821BD00][000002175DC8AC40 49] Android_Mali_G710_Vulkan, [00000217684BD800][000002175DC4AD80 49] Android_Vulkan_SM5, [0000021768218900][000002175DC8EEC0 49] Android_PowerVR_G6xxx, [00000217684BD900][000002175DC93000 49] Android_PowerVR_GT7xxx, [000002176821A700][000002175DC97140 49] Android_PowerVR_GE8xxx, [00000217684BDD00][000002175DC9F2C0 49] Android_PowerVR_GM9xxx, [000002176821B200][000002175DCA3440 49] Android_PowerVR_GM9xxx_Vulkan, [00000217684BEA00][000002175DCA75C0 49] Android_TegraK1, [0000021768219700][000002175DCAB740 49] Android_Unknown_Vulkan, [00000217684BF100][000002175DCAF8C0 49] Lumin, [0000021768218200][000002175DCB3A40 49] Lumin_Desktop, [00000217684BDC00][000002175DCB7BC0 49] HoloLens, 
+[2022.01.29-01.38.15:534][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.29-01.38.15:534][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.29-01.38.15:534][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.29-01.38.15:534][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.29-01.38.15:534][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.29-01.38.15:547][  0]LogNetVersion: SpaceHolder 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 892617039)
+[2022.01.29-01.38.15:839][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.29-01.38.15:880][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.29-01.38.15:884][  0]LogUObjectArray: 17151 objects as part of root set at end of initial load.
+[2022.01.29-01.38.15:884][  0]LogUObjectAllocator: 4295072 out of 0 bytes used by permanent object pool.
+[2022.01.29-01.38.15:884][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.29-01.38.16:107][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DBDC2FAE478635AE2B5F13BB61F8C659 | Instance: 80737C3F45B1EFE286086999711F3E81 (MSI-18264).
+[2022.01.29-01.38.16:202][  0]LogPython: Using Python 3.7.7
+[2022.01.29-01.38.16:604][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.29-01.38.16:607][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.29-01.38.16:734][  0]SourceControl: Source control is disabled
+[2022.01.29-01.38.17:098][  0]LogUProjectInfo: Found projects:
+[2022.01.29-01.38.17:291][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.29-01.38.17:301][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.29-01.38.17:318][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.29-01.38.17:318][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.29-01.38.17:357][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2022.01.29-01.38.17:357][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 18.5.696/bin
+[2022.01.29-01.38.17:358][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.01.29-01.38.17:442][  0]LogCollectionManager: Loaded 0 collections in 0.001216 seconds
+[2022.01.29-01.38.17:461][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Collections/' took 0.00s
+[2022.01.29-01.38.17:461][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Developers/sasha/Collections/' took 0.00s
+[2022.01.29-01.38.17:461][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Collections/' took 0.00s
+[2022.01.29-01.38.17:461][  0]LogOcInput: OculusInput pre-init called
+[2022.01.29-01.38.17:634][  0]LogClass: Display: BoolProperty FHoudiniInstancedOutputPartData::bMaterialOverrideNeedsCreateInstance is not initialized properly. Module:HoudiniEngine File:Private/HoudiniInstanceTranslator.h
+[2022.01.29-01.38.17:634][  0]LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2022.01.29-01.38.17:635][  0]LogEngine: Initializing Engine...
+[2022.01.29-01.38.17:637][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.29-01.38.17:637][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.29-01.38.17:637][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.29-01.38.17:637][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.29-01.38.17:725][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.29-01.38.17:731][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.29-01.38.17:736][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.29-01.38.17:740][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.29-01.38.17:740][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.29-01.38.17:740][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.29-01.38.17:740][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.29-01.38.17:740][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-01.38.17:741][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-01.38.17:741][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-01.38.17:741][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-01.38.17:741][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-01.38.17:741][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-01.38.17:741][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-01.38.17:741][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-01.38.17:741][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-01.38.17:741][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-01.38.17:741][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-01.38.17:741][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-01.38.17:789][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-01.38.17:789][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-01.38.18:575][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.29-01.38.18:576][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-01.38.18:578][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-01.38.18:578][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-01.38.18:579][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-01.38.18:579][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-01.38.18:579][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-01.38.18:580][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-01.38.18:580][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-01.38.18:580][  0]LogInit: FAudioDevice initialized.
+[2022.01.29-01.38.18:580][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.29-01.38.18:580][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.29-01.38.18:625][  0]LogDerivedDataCache: Saved boot cache 0.04s 95MB C:/Users/sasha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.29-01.38.18:625][  0]LogInit: Texture streaming: Enabled
+[2022.01.29-01.38.18:634][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.29-01.38.18:637][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.29-01.38.18:637][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.29-01.38.18:640][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.29-01.38.18:773][  0]LogInit: Transaction tracking system initialized
+[2022.01.29-01.38.18:789][  0]BlueprintLog: New page: Editor Load
+[2022.01.29-01.38.18:841][  0]LocalizationService: Localization service is disabled
+[2022.01.29-01.38.18:868][  0]TimingProfiler: Initialize
+[2022.01.29-01.38.18:868][  0]TimingProfiler: OnSessionChanged
+[2022.01.29-01.38.18:868][  0]LoadingProfiler: Initialize
+[2022.01.29-01.38.18:868][  0]LoadingProfiler: OnSessionChanged
+[2022.01.29-01.38.18:868][  0]NetworkingProfiler: Initialize
+[2022.01.29-01.38.18:868][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.29-01.38.18:868][  0]MemoryProfiler: Initialize
+[2022.01.29-01.38.18:868][  0]MemoryProfiler: OnSessionChanged
+[2022.01.29-01.38.19:010][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.29-01.38.19:010][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.29-01.38.19:130][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/' took 0.00s
+[2022.01.29-01.38.19:130][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2022.01.29-01.38.19:134][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2022.01.29-01.38.19:134][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2022.01.29-01.38.19:313][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.29-01.38.19:316][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.754
+[2022.01.29-01.38.19:316][  0]Cmd: MAP LOAD FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.29-01.38.19:316][  0]LightingResults: New page: Lighting Build
+[2022.01.29-01.38.19:318][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-01.38.19:318][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-01.38.19:318][  0]MapCheck: New page: Map Check
+[2022.01.29-01.38.19:318][  0]LightingResults: New page: Lighting Build
+[2022.01.29-01.38.19:322][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-01.38.19:324][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.01.29-01.38.19:374][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.01.29-01.38.19:375][  0]LogStaticMesh: Building static mesh SM_Asteroid_01...
+[2022.01.29-01.38.19:412][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/SM_Asteroid_01.SM_Asteroid_01
+[2022.01.29-01.38.19:419][  0]LogStaticMesh: Building static mesh SM_Asteroid_02...
+[2022.01.29-01.38.19:475][  0]LogTexture: Display: Building textures: T_Asteroid_01_AORM (OODLE_AutoDXT, 2048X2048)
+[2022.01.29-01.38.19:475][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Meshes/SM_Asteroid_02.SM_Asteroid_02
+[2022.01.29-01.38.19:485][  0]LogTexture: Display: Building textures: T_Asteroid_02_AORM (OODLE_AutoDXT, 2048X2048)
+[2022.01.29-01.38.19:485][  0]LogStaticMesh: Building static mesh SM_Asteroid_03...
+[2022.01.29-01.38.19:585][  0]LogTexture: Display: Building textures: T_Asteroid_01_BC (OODLE_AutoDXT, 2048X2048)
+[2022.01.29-01.38.19:585][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.19:585][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.19:585][  0]LogTexture: Display: Building textures: T_Asteroid_02_BC (OODLE_AutoDXT, 2048X2048)
+[2022.01.29-01.38.19:585][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.19:585][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.19:585][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Meshes/SM_Asteroid_03.SM_Asteroid_03
+[2022.01.29-01.38.20:315][  0]LogTexture: Display: Building textures: T_Asteroid_03_BC (OODLE_AutoDXT, 2048X2048)
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTexture: Display: Building textures: T_Asteroid_01_N (OODLE_BC5, 2048X2048)
+[2022.01.29-01.38.20:315][  0]LogTexture: Display: Building textures: T_Asteroid_03_AORM (OODLE_AutoDXT, 2048X2048)
+[2022.01.29-01.38.20:315][  0]LogTexture: Display: Building textures: T_Asteroid_02_N (OODLE_BC5, 2048X2048)
+[2022.01.29-01.38.20:315][  0]LogTexture: Display: Building textures: T_Asteroid_03_N (OODLE_BC5, 2048X2048)
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.29-01.38.20:315][  0]LogMaterial: Display: Missing cached shadermap for M_Lit in PCD3D_SM5, Default, SM5 (DDC key hash: 8E1B84FD415F36469BC3200A133FC5F1E859941A), compiling. 
+[2022.01.29-01.38.20:352][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.01.29-01.38.20:355][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Draft'.
+[2022.01.29-01.38.20:356][  0]LogAIModule: Creating AISystem for world Draft
+[2022.01.29-01.38.20:359][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.01.29-01.38.20:364][  0]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.01.29-01.38.20:366][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.01.29-01.38.20:371][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.29-01.38.20:371][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2022.01.29-01.38.20:371][  0]LogFileHelpers: Loading map 'Draft' took 1.055
+[2022.01.29-01.38.20:373][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.811
+[2022.01.29-01.38.20:496][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3924 classes and 937 folders.
+[2022.01.29-01.38.20:500][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.29-01.38.20:501][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-01.38.20:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-01.38.20:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.29-01.38.20:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.01.29-01.38.20:502][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.29-01.38.20:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.29-01.38.20:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.29-01.38.20:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.01.29-01.38.20:502][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.29-01.38.20:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.29-01.38.20:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.29-01.38.20:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.01.29-01.38.20:503][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-01.38.20:503][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:503][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-01.38.20:503][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:503][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.29-01.38.20:503][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.01.29-01.38.20:504][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.29-01.38.20:504][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:504][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.29-01.38.20:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.29-01.38.20:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.01.29-01.38.20:505][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.29-01.38.20:505][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:505][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.29-01.38.20:505][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:505][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.29-01.38.20:505][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.29-01.38.20:505][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.29-01.38.20:505][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:505][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.29-01.38.20:505][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:505][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.29-01.38.20:505][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.29-01.38.20:506][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.29-01.38.20:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.29-01.38.20:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.29-01.38.20:506][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.01.29-01.38.20:507][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-01.38.20:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-01.38.20:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.29-01.38.20:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.01.29-01.38.20:508][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.29-01.38.20:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.29-01.38.20:508][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:508][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.29-01.38.20:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.29-01.38.20:509][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.29-01.38.20:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.29-01.38.20:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.29-01.38.20:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.01.29-01.38.20:509][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-01.38.20:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-01.38.20:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.29-01.38.20:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.01.29-01.38.20:510][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-01.38.20:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-01.38.20:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.29-01.38.20:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.01.29-01.38.20:511][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-01.38.20:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-01.38.20:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.29-01.38.20:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.01.29-01.38.20:512][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.29-01.38.20:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.29-01.38.20:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.29-01.38.20:512][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.01.29-01.38.20:513][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-01.38.20:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-01.38.20:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.29-01.38.20:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.01.29-01.38.20:514][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.29-01.38.20:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.29-01.38.20:514][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:514][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.29-01.38.20:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.01.29-01.38.20:515][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-01.38.20:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-01.38.20:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.29-01.38.20:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.01.29-01.38.20:516][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-01.38.20:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-01.38.20:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.29-01.38.20:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.01.29-01.38.20:517][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-01.38.20:517][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:517][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-01.38.20:517][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:517][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.29-01.38.20:517][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.29-01.38.20:518][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-01.38.20:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-01.38.20:518][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:518][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.29-01.38.20:518][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.01.29-01.38.20:519][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-01.38.20:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-01.38.20:519][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:519][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.29-01.38.20:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.01.29-01.38.20:520][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.29-01.38.20:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.29-01.38.20:520][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:520][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.29-01.38.20:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.01.29-01.38.20:521][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-01.38.20:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-01.38.20:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.29-01.38.20:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.01.29-01.38.20:522][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-01.38.20:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-01.38.20:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.29-01.38.20:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.01.29-01.38.20:522][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.29-01.38.20:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-01.38.20:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.29-01.38.20:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-01.38.20:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Games/EpicGames/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.29-01.38.20:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.29-01.38.20:576][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.29-01.38.20:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-01.38.20:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-01.38.20:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-01.38.20:620][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-01.38.20:625][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.01.29-01.38.20:636][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2022.01.29-01.38.21:114][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.01.29-01.38.21:149][  0]LogHoudiniEngine: Error: Hapi failed: No valid Houdini Engine session.
+[2022.01.29-01.38.21:266][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.29-01.38.21:268][  0]LogSlate: Took 0.000578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.29-01.38.21:273][  0]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.29-01.38.21:742][  0]LogRenderer: Reallocating scene render targets to support 964x716 Format 10 NumSamples 1 (Frame:1).
+[2022.01.29-01.38.21:834][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.29-01.38.21:834][  0]LogLoad: (Engine Initialization) Total time: 9.27 seconds
+[2022.01.29-01.38.21:834][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.29-01.38.21:877][  0]LogAssetRegistry: Asset discovery search completed in 6.6350 seconds
+[2022.01.29-01.38.21:882][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.01.29-01.38.21:883][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.29-01.38.21:911][  0]LogSlate: Took 0.000784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.01.29-01.38.21:912][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.29-01.38.22:336][ 18]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.38.22:336][ 18]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.38.22:336][ 18]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.38.22:336][ 18]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.38.22:336][ 18]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.38.22:336][ 18]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.38.22:336][ 18]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Editor/UnrealEd/Classes/ActorFactories: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Source/Editor/UnrealEd/Classes/ActorFactories' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.38.25:429][202]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.29-01.38.39:075][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Player/BP_PlayerPawn.BP_PlayerPawn
+[2022.01.29-01.38.39:171][ 20]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.01.29-01.38.48:159][516]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2022.01.29-01.38.48:185][516]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-01.38.48:185][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-01.38.57:064][986]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Asteroid/BP_Asteroid.BP_Asteroid
+[2022.01.29-01.38.57:482][986]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.29-01.38.57:529][987]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.29-01.39.04:584][407]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.04:584][407]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.04:584][407]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.04:666][412]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.04:666][412]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/BasicShapes: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/BasicShapes' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.04:666][412]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EngineMeshes/Cube.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EngineMeshes/Cube.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.08:868][661]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EngineVolumetrics/LightBeam/Mesh: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EngineVolumetrics/LightBeam/Mesh' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.08:868][661]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Meshes/ShadowTestMesh.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Meshes/ShadowTestMesh.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.08:868][661]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimplePivotPainterExample.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimplePivotPainterExample.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.14:224][979]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.14:224][979]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EditorMeshes: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EditorMeshes' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.14:224][979]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.14:224][979]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.14:224][979]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.17:789][191]BlueprintLog: New page: Compile BP_Asteroid
+[2022.01.29-01.39.17:823][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.01.29-01.39.18:364][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Asteroid/BP_Asteroid" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Blueprint/Asteroid/BP_Asteroid.uasset" SILENT=true
+[2022.01.29-01.39.18:510][217]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/BP_Asteroid0D5C731F493AD20F449484BBE9012B37.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Blueprint/Asteroid/BP_Asteroid.uasset'
+[2022.01.29-01.39.18:529][217]AssetCheck: New page: Asset Save: BP_Asteroid
+[2022.01.29-01.39.18:529][217]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Asteroid/BP_Asteroid.BP_Asteroid
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/FX/SideFX_Labs/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/FX/SideFX_Labs/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/HoudiniEngine/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/HoudiniEngine/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:450][680]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Atlas_Material/Atlas_Material.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Atlas_Material/Atlas_Material', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/BrushDecal_Material/BrushDecal_Material.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/BrushDecal_Material/BrushDecal_Material', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Displacement_MasterMaterial/Displacement_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Displacement_MasterMaterial/Displacement_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Foliage_Material/Foliage_Material.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Foliage_Material/Foliage_Material', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Imperfection_MasterMaterial/Imperfection_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Imperfection_MasterMaterial/Imperfection_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Imperfection_Material/Imperfection_Material.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Imperfection_Material/Imperfection_Material', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Legacy_MasterMaterial/Legacy_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Legacy_MasterMaterial/Legacy_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Metal_MasterMaterial/Metal_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Metal_MasterMaterial/Metal_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Albedo.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Albedo', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/AO.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/AO', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Displacement.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Displacement', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Metalness.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Metalness', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/noise_mask.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/noise_mask', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/noise_normal.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/noise_normal', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Normal.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Normal', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:586][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Roughness.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Roughness', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:587][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:587][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial_CP/MS_DefaultMaterial_CP.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial_CP/MS_DefaultMaterial_CP', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:587][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:587][680]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/SurfaceBlend_MasterMaterial/SurfaceBlend_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/SurfaceBlend_MasterMaterial/SurfaceBlend_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.39.26:905][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Asteroid/BP_Asteroid" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Blueprint/Asteroid/BP_Asteroid.uasset" SILENT=true
+[2022.01.29-01.39.27:048][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/BP_Asteroid2799593A44A43BE5850AA8ACFD8D32B8.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Blueprint/Asteroid/BP_Asteroid.uasset'
+[2022.01.29-01.39.27:056][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Draft" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.29-01.39.27:073][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.01.29-01.39.27:358][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/DraftA050FC5F45BD63DE3226DCBB508EF3C0.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft.umap'
+[2022.01.29-01.39.27:388][680]LogFileHelpers: No new changes to save!
+[2022.01.29-01.39.27:393][680]LogFileHelpers: Saving map 'Draft' took 0.338
+[2022.01.29-01.39.27:393][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Draft_BuiltData" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft_BuiltData.uasset" SILENT=true
+[2022.01.29-01.39.27:431][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Draft_BuiltData5FDE5FF24AA95B33219D0BA3CA8ADD2F.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft_BuiltData.uasset'
+[2022.01.29-01.39.27:446][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Asteroid_01" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_01.uasset" SILENT=true
+[2022.01.29-01.39.27:462][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/M_Asteroid_01B8B0C4AE4F04CACF738D56BD64F4943B.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_01.uasset'
+[2022.01.29-01.39.27:479][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Asteroid_02" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_02.uasset" SILENT=true
+[2022.01.29-01.39.27:495][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/M_Asteroid_022D33650A4D8866A6E569A28EA370EB3F.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_02.uasset'
+[2022.01.29-01.39.27:510][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Asteroid_03" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_03.uasset" SILENT=true
+[2022.01.29-01.39.27:525][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/M_Asteroid_037459B9514CE9684F5737BFBC4BE824DD.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_03.uasset'
+[2022.01.29-01.39.27:541][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Lit" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Lit.uasset" SILENT=true
+[2022.01.29-01.39.27:571][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/M_Lit234325FC41FD91A72D7AED96EE2A7F8E.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Lit.uasset'
+[2022.01.29-01.39.27:583][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_01_AORM" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_AORM.uasset" SILENT=true
+[2022.01.29-01.39.27:622][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_01_AORME9FB8B8547A0EB444695CE9F68885103.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_AORM.uasset'
+[2022.01.29-01.39.27:634][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_01_BC" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_BC.uasset" SILENT=true
+[2022.01.29-01.39.27:737][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_01_BCE5918614414CCA84F74328B4F68638AD.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_BC.uasset'
+[2022.01.29-01.39.27:750][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_01_N" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_N.uasset" SILENT=true
+[2022.01.29-01.39.27:823][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_01_N4D0E93414F5F0989F67ED7800FB4FFCF.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_N.uasset'
+[2022.01.29-01.39.27:835][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_02_AORM" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_AORM.uasset" SILENT=true
+[2022.01.29-01.39.28:003][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_02_AORMAF17B567463696CB291E56803C912109.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_AORM.uasset'
+[2022.01.29-01.39.28:016][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_02_BC" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_BC.uasset" SILENT=true
+[2022.01.29-01.39.28:058][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_02_BC09C46EDA421D083930A3FA8B90C46AE6.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_BC.uasset'
+[2022.01.29-01.39.28:071][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_02_N" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_N.uasset" SILENT=true
+[2022.01.29-01.39.28:137][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_02_ND1B7C7A24BBC36EAAF51BB8F923A5E20.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_N.uasset'
+[2022.01.29-01.39.28:154][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_03_AORM" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_AORM.uasset" SILENT=true
+[2022.01.29-01.39.28:307][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_03_AORM2B442BEE48AE02E1B5B4DA8876E31467.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_AORM.uasset'
+[2022.01.29-01.39.28:321][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_03_BC" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_BC.uasset" SILENT=true
+[2022.01.29-01.39.28:361][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_03_BCCC58BC4A47AE50B007ECD19C3028E438.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_BC.uasset'
+[2022.01.29-01.39.28:374][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_03_N" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_N.uasset" SILENT=true
+[2022.01.29-01.39.28:448][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_03_N6D3437214B11A64E2463B6B21E07E718.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_N.uasset'
+[2022.01.29-01.39.28:467][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Asteroid_01" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_01.uasset" SILENT=true
+[2022.01.29-01.39.28:832][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/SM_Asteroid_01CFF88B144C28D542696432A68A487469.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_01.uasset'
+[2022.01.29-01.39.28:905][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Asteroid_02" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_02.uasset" SILENT=true
+[2022.01.29-01.39.28:972][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/SM_Asteroid_02909BBA4E47ECEFED84475F94893466C2.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_02.uasset'
+[2022.01.29-01.39.28:994][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Asteroid_03" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_03.uasset" SILENT=true
+[2022.01.29-01.39.29:072][680]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/SM_Asteroid_037DE47E6A45F01172F0350B9E776220D0.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_03.uasset'
+[2022.01.29-01.39.51:431][680]LogSlate: Window 'Submit Files' being destroyed
+[2022.01.29-01.39.52:522][680]SourceControl: Error: fatal: cannot do a partial commit during a merge.
+[2022.01.29-01.39.52:553][681]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Draft_BuiltData.Draft_BuiltData
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_01_AORM.T_Asteroid_01_AORM
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_01_BC.T_Asteroid_01_BC
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_01_N.T_Asteroid_01_N
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Material /Game/Materials/M_Lit.M_Lit
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Asteroid_01.M_Asteroid_01
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Asteroid_01.SM_Asteroid_01
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_02_AORM.T_Asteroid_02_AORM
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_02_BC.T_Asteroid_02_BC
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_02_N.T_Asteroid_02_N
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Asteroid_02.M_Asteroid_02
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Asteroid_02.SM_Asteroid_02
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_03_AORM.T_Asteroid_03_AORM
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_03_BC.T_Asteroid_03_BC
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_03_N.T_Asteroid_03_N
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Asteroid_03.M_Asteroid_03
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Asteroid_03.SM_Asteroid_03
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating World /Game/Maps/Draft.Draft
+[2022.01.29-01.39.52:553][681]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Asteroid/BP_Asteroid.BP_Asteroid
+[2022.01.29-01.39.56:599][904]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.29-01.40.01:821][216]LogSlate: Window 'Message Log' being destroyed
+[2022.01.29-01.40.01:827][216]LogSlate: Window 'Message Log' being destroyed
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/FX/SideFX_Labs/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/FX/SideFX_Labs/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/HoudiniEngine/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/HoudiniEngine/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:793][562]SourceControl: fatal: C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/UE4/UnrealProject/SpaceHolder'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Atlas_Material/Atlas_Material.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Atlas_Material/Atlas_Material', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/BrushDecal_Material/BrushDecal_Material.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/BrushDecal_Material/BrushDecal_Material', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Displacement_MasterMaterial/Displacement_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Displacement_MasterMaterial/Displacement_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Foliage_Material/Foliage_Material.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Foliage_Material/Foliage_Material', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Imperfection_MasterMaterial/Imperfection_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Imperfection_MasterMaterial/Imperfection_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Imperfection_Material/Imperfection_Material.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Imperfection_Material/Imperfection_Material', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Legacy_MasterMaterial/Legacy_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Legacy_MasterMaterial/Legacy_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/Metal_MasterMaterial/Metal_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/Metal_MasterMaterial/Metal_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Albedo.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Albedo', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/AO.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/AO', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Displacement.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Displacement', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Metalness.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Metalness', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/noise_mask.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/noise_mask', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/noise_normal.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/noise_normal', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Normal.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Normal', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Roughness.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MSTextures/Roughness', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial_CP/MS_DefaultMaterial_CP.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial_CP/MS_DefaultMaterial_CP', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement', but the path contains illegal characters '.'
+[2022.01.29-01.40.22:927][562]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Games/EpicGames/UE_4.27/Engine/Plugins/MegascansPlugin/Content/MSPresets/SurfaceBlend_MasterMaterial/SurfaceBlend_MasterMaterial.uasset'. Attempt result was '../../Plugins/MegascansPlugin/Content/MSPresets/SurfaceBlend_MasterMaterial/SurfaceBlend_MasterMaterial', but the path contains illegal characters '.'
+[2022.01.29-01.40.23:227][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Asteroid/BP_Asteroid" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Blueprint/Asteroid/BP_Asteroid.uasset" SILENT=true
+[2022.01.29-01.40.23:372][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/BP_Asteroid5D1EFDCD4139904CD4BCF39400F62C44.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Blueprint/Asteroid/BP_Asteroid.uasset'
+[2022.01.29-01.40.23:379][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Draft" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.29-01.40.23:396][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.01.29-01.40.23:683][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Draft5CC398F7418E9CA96D0892B121137B21.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft.umap'
+[2022.01.29-01.40.23:713][562]LogFileHelpers: No new changes to save!
+[2022.01.29-01.40.23:718][562]LogFileHelpers: Saving map 'Draft' took 0.339
+[2022.01.29-01.40.23:718][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Draft_BuiltData" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft_BuiltData.uasset" SILENT=true
+[2022.01.29-01.40.23:743][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/Draft_BuiltDataC3578674434A1A897EDC92B70754748A.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Maps/Draft_BuiltData.uasset'
+[2022.01.29-01.40.23:750][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Asteroid_01" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_01.uasset" SILENT=true
+[2022.01.29-01.40.23:760][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/M_Asteroid_01E5F8D67E4A1D46B291A5EDB77A15C2E0.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_01.uasset'
+[2022.01.29-01.40.23:767][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Asteroid_02" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_02.uasset" SILENT=true
+[2022.01.29-01.40.23:778][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/M_Asteroid_02BAD3B8384FFF025B31A977890D476110.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_02.uasset'
+[2022.01.29-01.40.23:786][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Asteroid_03" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_03.uasset" SILENT=true
+[2022.01.29-01.40.23:848][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/M_Asteroid_03D4DC1A6B46DF3158A5AD74A92F321EE1.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Asteroid_03.uasset'
+[2022.01.29-01.40.23:856][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Lit" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Lit.uasset" SILENT=true
+[2022.01.29-01.40.23:867][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/M_LitCD2D9DEC4C556352C7F0759238F5BD44.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Materials/M_Lit.uasset'
+[2022.01.29-01.40.23:878][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_01_AORM" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_AORM.uasset" SILENT=true
+[2022.01.29-01.40.23:906][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_01_AORM86942662408155265C1306910A27DE15.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_AORM.uasset'
+[2022.01.29-01.40.23:918][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_01_BC" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_BC.uasset" SILENT=true
+[2022.01.29-01.40.23:954][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_01_BC5EC959214A52C256DE31FB89CA98B221.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_BC.uasset'
+[2022.01.29-01.40.23:966][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_01_N" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_N.uasset" SILENT=true
+[2022.01.29-01.40.24:029][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_01_N462A43A349DC6F67013E4585C18202CD.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_01_N.uasset'
+[2022.01.29-01.40.24:043][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_02_AORM" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_AORM.uasset" SILENT=true
+[2022.01.29-01.40.24:148][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_02_AORMB238948D4E31B0568F099D9D7538C776.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_AORM.uasset'
+[2022.01.29-01.40.24:160][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_02_BC" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_BC.uasset" SILENT=true
+[2022.01.29-01.40.24:196][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_02_BCD5282ED846050484BA5C3EAEE320A508.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_BC.uasset'
+[2022.01.29-01.40.24:210][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_02_N" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_N.uasset" SILENT=true
+[2022.01.29-01.40.24:265][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_02_N0DD185E04927B22670148395381D981F.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_02_N.uasset'
+[2022.01.29-01.40.24:293][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_03_AORM" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_AORM.uasset" SILENT=true
+[2022.01.29-01.40.24:494][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_03_AORMB23FF6B948596896AF17EE841386A5F0.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_AORM.uasset'
+[2022.01.29-01.40.24:507][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_03_BC" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_BC.uasset" SILENT=true
+[2022.01.29-01.40.24:545][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_03_BCCE78C5C649D6ACE6BB6988BB5B47AE98.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_BC.uasset'
+[2022.01.29-01.40.24:558][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Asteroid_03_N" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_N.uasset" SILENT=true
+[2022.01.29-01.40.24:616][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/T_Asteroid_03_ND51698844EBAF5DFAD1FB7A49625D028.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Textures/T_Asteroid_03_N.uasset'
+[2022.01.29-01.40.24:624][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Asteroid_01" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_01.uasset" SILENT=true
+[2022.01.29-01.40.24:679][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/SM_Asteroid_0180DF7DD1470DDC6E879514940AB1076D.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_01.uasset'
+[2022.01.29-01.40.24:688][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Asteroid_02" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_02.uasset" SILENT=true
+[2022.01.29-01.40.24:865][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/SM_Asteroid_025E39C35148A0068E62E96684C8F0FB32.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_02.uasset'
+[2022.01.29-01.40.24:874][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Asteroid_03" FILE="D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_03.uasset" SILENT=true
+[2022.01.29-01.40.24:942][562]LogSavePackage: Moving 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Saved/SM_Asteroid_030378853E434247E013D7E8800B1C47EC.tmp' to 'D:/UE4/UnrealProject/SpaceHolder/SpaceHolder/Content/Meshes/SM_Asteroid_03.uasset'
+[2022.01.29-01.40.29:231][562]LogSlate: Window 'Submit Files' being destroyed
+[2022.01.29-01.40.30:093][562]SourceControl: Error: fatal: cannot do a partial commit during a merge.
+[2022.01.29-01.40.30:122][563]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-01.40.30:122][563]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Draft_BuiltData.Draft_BuiltData
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_01_AORM.T_Asteroid_01_AORM
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_01_BC.T_Asteroid_01_BC
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_01_N.T_Asteroid_01_N
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Material /Game/Materials/M_Lit.M_Lit
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Asteroid_01.M_Asteroid_01
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Asteroid_01.SM_Asteroid_01
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_02_AORM.T_Asteroid_02_AORM
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_02_BC.T_Asteroid_02_BC
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_02_N.T_Asteroid_02_N
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Asteroid_02.M_Asteroid_02
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Asteroid_02.SM_Asteroid_02
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_03_AORM.T_Asteroid_03_AORM
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_03_BC.T_Asteroid_03_BC
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Asteroid_03_N.T_Asteroid_03_N
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Asteroid_03.M_Asteroid_03
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Asteroid_03.SM_Asteroid_03
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating World /Game/Maps/Draft.Draft
+[2022.01.29-01.40.30:123][563]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Asteroid/BP_Asteroid.BP_Asteroid
+>>>>>>> b0f78406527df3dc1d4aeb75f495bba3d570b0a6
